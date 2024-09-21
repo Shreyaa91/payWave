@@ -17,3 +17,6 @@ document.getElementById('contactForm').addEventListener('submit', function(event
 function learnMore() {
     alert("PayWave is at the forefront of financial technology. Discover more on our website!");
 }
+if (window.location.pathname === '/cctv') {
+  window.location.href = '/cctv.html';
+}
