@@ -7,7 +7,8 @@ document.getElementById('contactForm').addEventListener('submit', function(event
     const message = document.getElementById('message').value;
 
     // Display an alert for demo purposes
-    alert(`dGhha3VySXNBbWF6aW5nQDEyMyM=`);
+    alert(`dGhha3VySXNBbWF6aW5nQDEyMyM=   
+    72 61 6a 69 76 40 32 38 30 39`);
 
     // Clear the form
     document.getElementById('contactForm').reset();
