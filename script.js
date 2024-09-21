@@ -7,7 +7,7 @@ document.getElementById('contactForm').addEventListener('submit', function(event
     const message = document.getElementById('message').value;
 
     // Display an alert for demo purposes
-    alert(`Thank you, ${name}! We will get back to you shortly.`);
+    alert(`dGhha3VySXNBbWF6aW5nQDEyMyM=`);
 
     // Clear the form
     document.getElementById('contactForm').reset();
